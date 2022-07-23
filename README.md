@@ -1,1 +1,2 @@
 # Calendar-1
+I chose to include this project as a testament to my progress in creating a calendar for my Clarity Coaching project. Although this calendar isn't a fully functioning program like my other calendar project, it still taught me some important inner.HTML concepts and served as the baseline for what was to come in future projects. I believe you can really start to see my coding style come into light through this project. 
